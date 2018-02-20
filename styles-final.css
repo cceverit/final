@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Amatic SC', sans-serif;
+}
+p, a{
+    font-family: 'EB Garamond', serif;  
+}
+.nav{
+    color: white;
+    background-color: black;
+    height: 40;
+    font-size: 1.5em;
+    width: 400;
+}
+#nav1{
+    float: left;
+}
+#nav2{
+    float:right;
+}
